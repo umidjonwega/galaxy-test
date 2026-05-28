@@ -1,24 +1,24 @@
-# ZAR POS — Omborxona va Savdo Tizimi.
+# ZAR POS — Omborxona va Savdo Tizimi
 
-## Tezkor ishga tushirish
+## Tezkor ishga tushirish 
 
 ### Windows
-`start_windows.bat` faylini **ikki marta bosing**
+`start_windows.bat` faylini **ikki marta bosing** 
 
-### Mac / Linux
+### Mac / Linux 
 ```bash
-chmod +x start_mac.sh
-./start_mac.sh
-```
+chmod +x start_mac.sh 
+./start_mac.sh 
+``` 
 
-Brauzerda oching: **http://localhost:8000**
+Brauzerda oching: **http://localhost:8000** 
 
----
+--- 
 
-## Qo'lda o'rnatish
+## Qo'lda o'rnatish 
 
-```bash
-# 1. Virtual muhit
+```bash 
+# 1. Virtual muhit 
 python -m venv venv
 
 # Windows:
