@@ -1,0 +1,17 @@
+# Core
+Django>=4.2,<6.1
+djangorestframework>=3.14
+django-cors-headers>=4.3
+
+# Config
+python-decouple>=3.8
+
+# HTTP (valyuta kursi uchun)
+requests>=2.31
+
+# Static files
+whitenoise>=6.6
+
+# Server — Windows uchun waitress, Mac/Linux uchun gunicorn
+waitress>=3.0
+gunicorn>=21.2
