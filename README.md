@@ -1,4 +1,4 @@
-# ZAR POS — Omborxona va Savdo Tizimi
+# ZAR POS — Omborxona va Savdo Tizimi 
 
 ## Tezkor ishga tushirish 
 
